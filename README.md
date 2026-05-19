@@ -37,7 +37,7 @@ This repository exists to provide:
 🏛️ Core Governance Principle
 “Structure creates continuity. Continuity creates governance. Governance preserves the ecosystem.”
 
-🔄 GGTC.info Continuity Model
+🔄 GGTCAI.GLOBAL Continuity Model
 Discovery
     ↓
 Publishing
@@ -135,18 +135,18 @@ System coordination
 
 Canonical Structure
 
-GGTC.info_[CATEGORY]_[SYSTEM]_[VERSION]
+GGTCAI.GLOBAL CATEGORY]_[SYSTEM]_[VERSION]
 
 ⸻
 
 Examples
 
-GGTC.info_MASTER_GOVERNANCE_FRAMEWORK_TEM_UPDATE_
+GGTCAI.GLOBAL MASTER_GOVERNANCE_FRAMEWORK_TEM_UPDATE_
 GGTC.info_REPOSITORY_CONTINUITY_V000
 
 📖 Public Repository Structure
 
-GGTC.info-MASTER-GOVERNANCE-FRAMEWORK/
+GGTCAI.GLOBAL MASTER-GOVERNANCE-FRAMEWORK/
 │
 ├── README.md
 ├── LICENSE.md
@@ -348,7 +348,7 @@ No system layer should expand without:
 
 ⸻
 
-👥 GGTC.info Authors + Media Team
+👥 GGTCAI.GLOBAL Authors + Media Team
 
 Contributor
 
@@ -394,9 +394,9 @@ Team Logistics Specialist
 
 Core Infrastructure
 
-* GGTC.info
+* GGTCAI.GLOBAL 
 * Quibhoball.com
-* GGTCAI.GLOBAL
+* GGTC.info
 
 Media + Publishing
 
@@ -446,7 +446,7 @@ This release establishes the public governance baseline for GGTC.info repository
 
 🔐 LICENSE
 
-GGTC.info PUBLIC RELEASE LICENSE V005
+GGTCAI.GLOBAL PUBLIC RELEASE LICENSE V005
 
 LICENSE STATUS
 
@@ -480,7 +480,7 @@ Public visibility does NOT grant:
 
 Restricted Actions
 
-The following are prohibited without explicit written authorization from GGTC.info:
+The following are prohibited without explicit written authorization from GGTCAI.GLOBAL:
 
 * unauthorized commercial use
 * infrastructure cloning
@@ -520,7 +520,7 @@ Governance preserves the ecosystem.”
 
 🌍 Official System Signature
 
-GGTC.info
+GGTCAI.GLOBAL 
 Structured Systems · Global Learning · Continuous Development
 
 Awareness Today · Action Tomorrow · Impact Forever
@@ -529,11 +529,12 @@ Awareness Today · Action Tomorrow · Impact Forever
 
 📌 End of README
 
-GGTC.info-MASTER-GOVERNANCE-FRAMEWORK-V000
+GGTC.info-MASTER-GOVERNANCE-FRAMEWORK-V008
 Canonical Governance Infrastructure
 Distribution Release May 19, 2026 GGTC.info time 05:43
 
-# GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005
+# GGTC.i
+GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V008
 Structured global language infrastructure registry documenting administrative, spoken, indigenous, creole, and regional language systems with governance, citation, and semantic continuity architecture.
 
 GGTC.info_GLOBAL_LINGUISTIC_INFRASTRUCTURE_REGISTRY_V005/
